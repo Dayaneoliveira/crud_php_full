@@ -31,3 +31,16 @@
 	header.php: css do Materialize;
 	footer.php: js do Materialize;
 	
+	
+## Arquivo de conexão
+	Neste exemplo, a conexão foi setada no arquivo conexao.php com as seguintes credenciais
+	Usuário: root
+	Senha: 
+	(nao há senha)
+	Banco: crud
+	
+## Executando a aplicação
+	1. Colar diretório na pasta xampp - htdocs
+	2. Ligar o xampp
+	3. Checar se a senha e o usuário do banco estão corretos, para isso altere no arquivo confi.inc.php as variáveis do tópico anterior  ^ ## Arquivo de conexão
+	4. Criar a tabela e o banco, contidos no arquivo crud.sql no MySQL
